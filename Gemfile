@@ -12,6 +12,7 @@ gem 'rails', '~> 5.1.6', '>= 5.1.6.2'
 gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
+gem 'faraday', '~> 0.9.2'
 gem 'httparty', '~> 0.13.7'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.5'
